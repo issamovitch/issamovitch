@@ -1,10 +1,17 @@
 # Hi, I'm Issam 👋
 
-<img src="https://issamovitch.dev/img/about-us.png" alt="Issam Hamed" width="150" align="right" />
+<img src="https://issamovitch.dev/img/about-us.png" alt="Issam Hamed" width="120" align="right" />
+
+
+
 
 **Senior React Developer** — React, Next.js, TypeScript. 8+ years building fast, scalable web products. On the side, I ship AI-powered tools that run themselves.
 
 🌐 [issamovitch.dev](https://issamovitch.dev) · 📍 Porto, Portugal
+
+
+
+
 
 ## 🚀 What I'm Building
 
